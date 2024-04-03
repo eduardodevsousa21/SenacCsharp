@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\obj\Debug\CalculadoraPOO1.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\obj\Debug\CalculadoraPOO1.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\bin\Debug\CalculadoraPOO1.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\bin\Debug\CalculadoraPOO1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\bin\Debug\CalculadoraPOO1.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\obj\Debug\CalculadoraPOO1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\CalculadoraPOO1\CalculadoraPOO1\obj\Debug\CalculadoraPOO1.pdb

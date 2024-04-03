@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.Form1.resources
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\bin\Debug\net6.0-windows\biblioteca.exe
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\bin\Debug\net6.0-windows\biblioteca.deps.json
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\bin\Debug\net6.0-windows\biblioteca.runtimeconfig.json
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\bin\Debug\net6.0-windows\biblioteca.dll
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\bin\Debug\net6.0-windows\biblioteca.pdb
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.dll
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\refint\biblioteca.dll
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.pdb
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\biblioteca.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\biblioteca\biblioteca\obj\Debug\net6.0-windows\ref\biblioteca.dll

@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\bin\Debug\net6.0-windows\ProgramProjeto.exe
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\bin\Debug\net6.0-windows\ProgramProjeto.deps.json
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\bin\Debug\net6.0-windows\ProgramProjeto.runtimeconfig.json
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\bin\Debug\net6.0-windows\ProgramProjeto.dll
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\bin\Debug\net6.0-windows\ProgramProjeto.pdb
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.Form1.resources
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.dll
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\refint\ProgramProjeto.dll
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.pdb
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ProgramProjeto.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ProgramProjeto\ProgramProjeto\obj\Debug\net6.0-windows\ref\ProgramProjeto.dll

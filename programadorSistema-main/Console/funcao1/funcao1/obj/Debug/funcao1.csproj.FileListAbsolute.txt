@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\bin\Debug\funcao1.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\bin\Debug\funcao1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\bin\Debug\funcao1.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\obj\Debug\funcao1.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\obj\Debug\funcao1.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\obj\Debug\funcao1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\funcao1\funcao1\obj\Debug\funcao1.pdb

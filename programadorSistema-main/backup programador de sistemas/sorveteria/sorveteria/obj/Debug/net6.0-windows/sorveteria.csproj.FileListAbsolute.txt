@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\bin\Debug\net6.0-windows\sorveteria.exe
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\bin\Debug\net6.0-windows\sorveteria.deps.json
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\bin\Debug\net6.0-windows\sorveteria.runtimeconfig.json
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\bin\Debug\net6.0-windows\sorveteria.dll
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\bin\Debug\net6.0-windows\sorveteria.pdb
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.Form1.resources
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.dll
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\refint\sorveteria.dll
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.pdb
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\sorveteria.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\sorveteria\sorveteria\obj\Debug\net6.0-windows\ref\sorveteria.dll

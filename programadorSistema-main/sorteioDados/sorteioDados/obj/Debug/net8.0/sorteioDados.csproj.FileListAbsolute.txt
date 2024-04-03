@@ -1,0 +1,14 @@
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\bin\Debug\net8.0\sorteioDados.exe
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\bin\Debug\net8.0\sorteioDados.deps.json
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\bin\Debug\net8.0\sorteioDados.runtimeconfig.json
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\bin\Debug\net8.0\sorteioDados.dll
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\bin\Debug\net8.0\sorteioDados.pdb
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.AssemblyInfoInputs.cache
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.AssemblyInfo.cs
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.dll
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\refint\sorteioDados.dll
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.pdb
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\sorteioDados.genruntimeconfig.cache
+C:\Users\eucli\source\repos\programador_sistemas\sorteioDados\sorteioDados\obj\Debug\net8.0\ref\sorteioDados.dll

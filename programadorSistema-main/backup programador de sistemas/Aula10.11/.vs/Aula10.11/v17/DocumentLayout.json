@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup programador de sistemas\\Aula10.11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F6F5C4-1E0E-4D39-85A4-9BDD4A2E4417}|Aula10.11\\Aula10.11.csproj|d:\\backup programador de sistemas\\aula10.11\\aula10.11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F6F5C4-1E0E-4D39-85A4-9BDD4A2E4417}|Aula10.11\\Aula10.11.csproj|solutionrelative:aula10.11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F6F5C4-1E0E-4D39-85A4-9BDD4A2E4417}|Aula10.11\\Aula10.11.csproj|d:\\backup programador de sistemas\\aula10.11\\aula10.11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91F6F5C4-1E0E-4D39-85A4-9BDD4A2E4417}|Aula10.11\\Aula10.11.csproj|solutionrelative:aula10.11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F6F5C4-1E0E-4D39-85A4-9BDD4A2E4417}|Aula10.11\\Aula10.11.csproj|d:\\backup programador de sistemas\\aula10.11\\aula10.11\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F6F5C4-1E0E-4D39-85A4-9BDD4A2E4417}|Aula10.11\\Aula10.11.csproj|solutionrelative:aula10.11\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Aula10.11\\Aula10.11\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula10.11\\Form1.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Aula10.11\\Aula10.11\\Form1.cs",
+              "RelativeToolTip": "Aula10.11\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:59:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Aula10.11\\Aula10.11\\Conta.cs",
+              "RelativeDocumentMoniker": "Aula10.11\\Conta.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Aula10.11\\Aula10.11\\Conta.cs",
+              "RelativeToolTip": "Aula10.11\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:59:11.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Aula10.11\\Aula10.11\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula10.11\\Form1.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Aula10.11\\Aula10.11\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Aula10.11\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:59:11.101Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

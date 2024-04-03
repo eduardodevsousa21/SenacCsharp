@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\juros\juros\bin\Debug\net6.0-windows\juros.exe
+C:\Users\Aluno\source\repos\juros\juros\bin\Debug\net6.0-windows\juros.deps.json
+C:\Users\Aluno\source\repos\juros\juros\bin\Debug\net6.0-windows\juros.runtimeconfig.json
+C:\Users\Aluno\source\repos\juros\juros\bin\Debug\net6.0-windows\juros.dll
+C:\Users\Aluno\source\repos\juros\juros\bin\Debug\net6.0-windows\juros.pdb
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.Form1.resources
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.dll
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\refint\juros.dll
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.pdb
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\juros.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\juros\juros\obj\Debug\net6.0-windows\ref\juros.dll

@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\bin\Debug\variaveis.exe.config
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\bin\Debug\variaveis.exe
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\bin\Debug\variaveis.pdb
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.Form1.resources
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.Properties.Resources.resources
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.exe
+C:\Users\eucli\source\repos\programador_sistemas\variaveis\variaveis\obj\Debug\variaveis.pdb

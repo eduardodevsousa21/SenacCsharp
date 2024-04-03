@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup programador de sistemas\\Bnco de dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|d:\\backup programador de sistemas\\bnco de dados\\bnco de dados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|solutionrelative:bnco de dados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|d:\\backup programador de sistemas\\bnco de dados\\bnco de dados\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|solutionrelative:bnco de dados\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|d:\\backup programador de sistemas\\bnco de dados\\bnco de dados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|solutionrelative:bnco de dados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|d:\\backup programador de sistemas\\bnco de dados\\bnco de dados\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97305DD9-ABBE-4C0F-B6BF-B9842EE3CEB7}|Bnco de dados\\Bnco de dados.csproj|solutionrelative:bnco de dados\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Relatorio.cs",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Relatorio.cs",
+              "RelativeDocumentMoniker": "Bnco de dados\\Relatorio.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Relatorio.cs",
+              "RelativeToolTip": "Bnco de dados\\Relatorio.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:54:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Form1.cs",
+              "RelativeDocumentMoniker": "Bnco de dados\\Form1.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Form1.cs",
+              "RelativeToolTip": "Bnco de dados\\Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:54:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Relatorio.cs [Projeto]",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Relatorio.cs",
+              "RelativeDocumentMoniker": "Bnco de dados\\Relatorio.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Relatorio.cs [Projeto]",
+              "RelativeToolTip": "Bnco de dados\\Relatorio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:54:38.44Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Form1.cs",
+              "RelativeDocumentMoniker": "Bnco de dados\\Form1.cs",
+              "ToolTip": "D:\\backup programador de sistemas\\Bnco de dados\\Bnco de dados\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Bnco de dados\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:54:38.455Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

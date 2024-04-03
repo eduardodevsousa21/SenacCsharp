@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\For1a10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA941FC7-A3D5-4764-A0B7-08393C331688}|For1a10\\For1a10.csproj|c:\\users\\eucli\\source\\repos\\programadorsistema\\console\\for1a10\\for1a10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA941FC7-A3D5-4764-A0B7-08393C331688}|For1a10\\For1a10.csproj|solutionrelative:for1a10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\For1a10\\For1a10\\Program.cs",
+              "RelativeDocumentMoniker": "For1a10\\Program.cs",
+              "ToolTip": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\For1a10\\For1a10\\Program.cs",
+              "RelativeToolTip": "For1a10\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:45:22.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

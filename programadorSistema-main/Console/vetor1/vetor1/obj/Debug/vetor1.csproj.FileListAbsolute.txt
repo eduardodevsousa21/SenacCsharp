@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\obj\Debug\vetor1.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\obj\Debug\vetor1.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\bin\Debug\vetor1.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\bin\Debug\vetor1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\bin\Debug\vetor1.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\obj\Debug\vetor1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\vetor1\vetor1\obj\Debug\vetor1.pdb

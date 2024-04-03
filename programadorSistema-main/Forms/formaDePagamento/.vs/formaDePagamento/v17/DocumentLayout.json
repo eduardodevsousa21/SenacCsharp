@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Forms\\formaDePagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF5C80F-46C3-43F5-8943-3924D2EACFC5}|formaDePagamento\\formaDePagamento.csproj|c:\\users\\eucli\\source\\repos\\programadorsistema\\forms\\formadepagamento\\formadepagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF5C80F-46C3-43F5-8943-3924D2EACFC5}|formaDePagamento\\formaDePagamento.csproj|solutionrelative:formadepagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF5C80F-46C3-43F5-8943-3924D2EACFC5}|formaDePagamento\\formaDePagamento.csproj|c:\\users\\eucli\\source\\repos\\programadorsistema\\forms\\formadepagamento\\formadepagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF5C80F-46C3-43F5-8943-3924D2EACFC5}|formaDePagamento\\formaDePagamento.csproj|solutionrelative:formadepagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Forms\\formaDePagamento\\formaDePagamento\\Form1.cs",
+              "RelativeDocumentMoniker": "formaDePagamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Forms\\formaDePagamento\\formaDePagamento\\Form1.cs",
+              "RelativeToolTip": "formaDePagamento\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:22:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Forms\\formaDePagamento\\formaDePagamento\\Form1.cs",
+              "RelativeDocumentMoniker": "formaDePagamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Forms\\formaDePagamento\\formaDePagamento\\Form1.cs [Design]",
+              "RelativeToolTip": "formaDePagamento\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:44:33.004Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

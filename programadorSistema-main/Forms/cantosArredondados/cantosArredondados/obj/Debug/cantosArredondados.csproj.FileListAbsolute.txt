@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\bin\Debug\cantosArredondados.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\bin\Debug\cantosArredondados.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\bin\Debug\cantosArredondados.pdb
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.PastaGrafica.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.Properties.Resources.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\cantosArredondados\cantosArredondados\obj\Debug\cantosArredondados.pdb

@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\obj\Debug\doWhile1.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\obj\Debug\doWhile1.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\bin\Debug\doWhile1.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\bin\Debug\doWhile1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\bin\Debug\doWhile1.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\obj\Debug\doWhile1.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\doWhile1\doWhile1\obj\Debug\doWhile1.pdb

@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\bin\Debug\geometria.exe.config
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\bin\Debug\geometria.exe
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\bin\Debug\geometria.pdb
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.Form1.resources
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.Properties.Resources.resources
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.exe
+C:\Users\eucli\source\repos\programadorSistema\geometria\geometria\obj\Debug\geometria.pdb

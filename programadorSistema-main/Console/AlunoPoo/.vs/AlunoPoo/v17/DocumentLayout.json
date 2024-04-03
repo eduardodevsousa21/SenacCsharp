@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\AlunoPoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBF8567-2E38-4FE4-BA6D-E74BE2B2771C}|AlunoPoo\\AlunoPoo.csproj|c:\\users\\eucli\\source\\repos\\programadorsistema\\console\\alunopoo\\alunopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBF8567-2E38-4FE4-BA6D-E74BE2B2771C}|AlunoPoo\\AlunoPoo.csproj|solutionrelative:alunopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBF8567-2E38-4FE4-BA6D-E74BE2B2771C}|AlunoPoo\\AlunoPoo.csproj|c:\\users\\eucli\\source\\repos\\programadorsistema\\console\\alunopoo\\alunopoo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBF8567-2E38-4FE4-BA6D-E74BE2B2771C}|AlunoPoo\\AlunoPoo.csproj|solutionrelative:alunopoo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\AlunoPoo\\AlunoPoo\\Aluno.cs",
+              "RelativeDocumentMoniker": "AlunoPoo\\Aluno.cs",
+              "ToolTip": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\AlunoPoo\\AlunoPoo\\Aluno.cs",
+              "RelativeToolTip": "AlunoPoo\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:52:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\AlunoPoo\\AlunoPoo\\Program.cs",
+              "RelativeDocumentMoniker": "AlunoPoo\\Program.cs",
+              "ToolTip": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\AlunoPoo\\AlunoPoo\\Program.cs",
+              "RelativeToolTip": "AlunoPoo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:51:09.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

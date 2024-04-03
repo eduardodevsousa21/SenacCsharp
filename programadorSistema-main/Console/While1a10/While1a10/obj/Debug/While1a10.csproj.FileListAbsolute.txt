@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\bin\Debug\While1a10.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\bin\Debug\While1a10.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\bin\Debug\While1a10.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\obj\Debug\While1a10.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\obj\Debug\While1a10.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\obj\Debug\While1a10.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\While1a10\While1a10\obj\Debug\While1a10.pdb

@@ -1,0 +1,2 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache

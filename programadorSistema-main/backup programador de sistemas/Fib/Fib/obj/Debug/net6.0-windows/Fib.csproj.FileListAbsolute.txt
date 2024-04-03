@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Fib\Fib\bin\Debug\net6.0-windows\Fib.exe
+C:\Users\Aluno\source\repos\Fib\Fib\bin\Debug\net6.0-windows\Fib.deps.json
+C:\Users\Aluno\source\repos\Fib\Fib\bin\Debug\net6.0-windows\Fib.runtimeconfig.json
+C:\Users\Aluno\source\repos\Fib\Fib\bin\Debug\net6.0-windows\Fib.dll
+C:\Users\Aluno\source\repos\Fib\Fib\bin\Debug\net6.0-windows\Fib.pdb
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.Form1.resources
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.dll
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\refint\Fib.dll
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.pdb
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\Fib.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Fib\Fib\obj\Debug\net6.0-windows\ref\Fib.dll

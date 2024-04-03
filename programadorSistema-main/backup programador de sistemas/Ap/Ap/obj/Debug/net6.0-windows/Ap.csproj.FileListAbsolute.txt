@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Ap\Ap\bin\Debug\net6.0-windows\Ap.exe
+C:\Users\Aluno\source\repos\Ap\Ap\bin\Debug\net6.0-windows\Ap.deps.json
+C:\Users\Aluno\source\repos\Ap\Ap\bin\Debug\net6.0-windows\Ap.runtimeconfig.json
+C:\Users\Aluno\source\repos\Ap\Ap\bin\Debug\net6.0-windows\Ap.dll
+C:\Users\Aluno\source\repos\Ap\Ap\bin\Debug\net6.0-windows\Ap.pdb
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.Form1.resources
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.dll
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\refint\Ap.dll
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.pdb
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\Ap.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Ap\Ap\obj\Debug\net6.0-windows\ref\Ap.dll

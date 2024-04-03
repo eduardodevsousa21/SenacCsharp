@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\bin\Debug\net6.0-windows\Auladia31.exe
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\bin\Debug\net6.0-windows\Auladia31.deps.json
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\bin\Debug\net6.0-windows\Auladia31.runtimeconfig.json
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\bin\Debug\net6.0-windows\Auladia31.dll
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\bin\Debug\net6.0-windows\Auladia31.pdb
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.Form1.resources
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.dll
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\refint\Auladia31.dll
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.pdb
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\Auladia31.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Auladia31\Auladia31\obj\Debug\net6.0-windows\ref\Auladia31.dll

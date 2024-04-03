@@ -1,0 +1,26 @@
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\Bnco de dados.exe
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\Bnco de dados.deps.json
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\Bnco de dados.runtimeconfig.json
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\Bnco de dados.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\Bnco de dados.pdb
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco_de_dados.Form1.resources
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.csproj.CopyComplete
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\refint\Bnco de dados.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.pdb
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco de dados.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\ref\Bnco de dados.dll
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco_de_dados.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Bnco de dados\Bnco de dados\obj\Debug\net6.0-windows\Bnco_de_dados.Relatorio.resources

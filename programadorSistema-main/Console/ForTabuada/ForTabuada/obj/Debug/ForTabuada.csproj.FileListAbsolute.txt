@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\bin\Debug\ForTabuada.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\bin\Debug\ForTabuada.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\bin\Debug\ForTabuada.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\obj\Debug\ForTabuada.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\obj\Debug\ForTabuada.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\obj\Debug\ForTabuada.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\ForTabuada\ForTabuada\obj\Debug\ForTabuada.pdb

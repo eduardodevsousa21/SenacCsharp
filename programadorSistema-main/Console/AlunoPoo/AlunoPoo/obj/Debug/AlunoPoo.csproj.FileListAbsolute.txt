@@ -1,0 +1,2 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\AlunoPoo\AlunoPoo\obj\Debug\AlunoPoo.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\AlunoPoo\AlunoPoo\obj\Debug\AlunoPoo.csproj.CoreCompileInputs.cache

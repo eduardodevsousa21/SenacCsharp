@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\bin\Debug\tabuadaDecrescente.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\bin\Debug\tabuadaDecrescente.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\bin\Debug\tabuadaDecrescente.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\obj\Debug\tabuadaDecrescente.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\obj\Debug\tabuadaDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\obj\Debug\tabuadaDecrescente.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuadaDecrescente\tabuadaDecrescente\obj\Debug\tabuadaDecrescente.pdb

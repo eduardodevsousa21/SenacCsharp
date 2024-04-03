@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\tabuada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FBA01E-D21B-4F51-828E-8C929C858AD4}|tabuada\\tabuada.csproj|c:\\users\\eucli\\source\\repos\\programadorsistema\\console\\tabuada\\tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FBA01E-D21B-4F51-828E-8C929C858AD4}|tabuada\\tabuada.csproj|solutionrelative:tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\tabuada\\tabuada\\Program.cs",
+              "RelativeDocumentMoniker": "tabuada\\Program.cs",
+              "ToolTip": "C:\\Users\\eucli\\source\\repos\\programadorSistema\\Console\\tabuada\\tabuada\\Program.cs",
+              "RelativeToolTip": "tabuada\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:36:16.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

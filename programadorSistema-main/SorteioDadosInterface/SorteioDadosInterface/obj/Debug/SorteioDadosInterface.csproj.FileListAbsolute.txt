@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\bin\Debug\SorteioDadosInterface.exe.config
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\bin\Debug\SorteioDadosInterface.exe
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\bin\Debug\SorteioDadosInterface.pdb
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.Form1.resources
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.Properties.Resources.resources
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.exe
+C:\Users\eucli\source\repos\programador_sistemas\SorteioDadosInterface\SorteioDadosInterface\obj\Debug\SorteioDadosInterface.pdb

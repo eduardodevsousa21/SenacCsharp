@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\bin\Debug\formaDePagamento.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\bin\Debug\formaDePagamento.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\bin\Debug\formaDePagamento.pdb
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.Form1.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.Properties.Resources.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\formaDePagamento\formaDePagamento\obj\Debug\formaDePagamento.pdb

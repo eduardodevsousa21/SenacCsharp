@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\bin\Debug\net6.0-windows\Cadrastro Biblioteca.exe
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\bin\Debug\net6.0-windows\Cadrastro Biblioteca.deps.json
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\bin\Debug\net6.0-windows\Cadrastro Biblioteca.runtimeconfig.json
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\bin\Debug\net6.0-windows\Cadrastro Biblioteca.dll
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\bin\Debug\net6.0-windows\Cadrastro Biblioteca.pdb
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro_Biblioteca.Form1.resources
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.dll
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\refint\Cadrastro Biblioteca.dll
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.pdb
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\Cadrastro Biblioteca.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Cadrastro Biblioteca\Cadrastro Biblioteca\obj\Debug\net6.0-windows\ref\Cadrastro Biblioteca.dll

@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\bin\Debug\rpgSenacfuncao.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\bin\Debug\rpgSenacfuncao.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\bin\Debug\rpgSenacfuncao.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\obj\Debug\rpgSenacfuncao.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\obj\Debug\rpgSenacfuncao.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\obj\Debug\rpgSenacfuncao.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\rpgSenacfuncao\rpgSenacfuncao\obj\Debug\rpgSenacfuncao.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cadrastro Biblioteca/1.0.0": {
+        "runtime": {
+          "Cadrastro Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadrastro Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

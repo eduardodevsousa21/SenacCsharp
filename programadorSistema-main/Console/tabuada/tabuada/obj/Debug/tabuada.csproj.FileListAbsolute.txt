@@ -1,0 +1,7 @@
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\eucli\source\repos\programadorSistema\Console\tabuada\tabuada\obj\Debug\tabuada.pdb

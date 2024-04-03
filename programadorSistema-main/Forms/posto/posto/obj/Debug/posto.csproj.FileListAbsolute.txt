@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.Form1.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.Properties.Resources.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\bin\Debug\posto.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\bin\Debug\posto.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\bin\Debug\posto.pdb
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\posto\posto\obj\Debug\posto.pdb

@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\bin\Debug\DoarSangue.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\bin\Debug\DoarSangue.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\bin\Debug\DoarSangue.pdb
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.Form1.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.Properties.Resources.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\DoarSangue\DoarSangue\obj\Debug\DoarSangue.pdb

@@ -1,0 +1,10 @@
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\bin\Debug\clima.exe.config
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\bin\Debug\clima.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\bin\Debug\clima.pdb
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.csproj.AssemblyReference.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.Form1.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.Properties.Resources.resources
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.csproj.GenerateResource.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.csproj.CoreCompileInputs.cache
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.exe
+C:\Users\eucli\source\repos\programadorSistema\Forms\clima\clima\obj\Debug\clima.pdb
