@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\bin\Debug\net8.0\jOGO2.0.exe
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\bin\Debug\net8.0\jOGO2.0.deps.json
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\bin\Debug\net8.0\jOGO2.0.runtimeconfig.json
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\bin\Debug\net8.0\jOGO2.0.dll
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\bin\Debug\net8.0\jOGO2.0.pdb
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.AssemblyInfo.cs
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.sourcelink.json
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.dll
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\refint\jOGO2.0.dll
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.pdb
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\jOGO2.0.genruntimeconfig.cache
+D:\Users\Aluno\Documents\GitHub\SenacCsharp\jOGO2.0\jOGO2.0\obj\Debug\net8.0\ref\jOGO2.0.dll

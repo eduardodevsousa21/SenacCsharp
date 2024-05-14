@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\jOGO2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\.vs\\ProjectEvaluation\\banco_de_talentos.metadata.v7.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5777C0B-9042-4239-8763-ACD446FF4AEF}|jOGO2.0\\jOGO2.0.csproj|d:\\users\\aluno\\documents\\github\\senaccsharp\\jogo2.0\\jogo2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5777C0B-9042-4239-8763-ACD446FF4AEF}|jOGO2.0\\jOGO2.0.csproj|solutionrelative:jogo2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banco_de_talentos.metadata.v7.bin",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\.vs\\ProjectEvaluation\\banco_de_talentos.metadata.v7.bin",
+              "RelativeDocumentMoniker": "..\\Banco_de_talentos\\.vs\\ProjectEvaluation\\banco_de_talentos.metadata.v7.bin",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\.vs\\ProjectEvaluation\\banco_de_talentos.metadata.v7.bin",
+              "RelativeToolTip": "..\\Banco_de_talentos\\.vs\\ProjectEvaluation\\banco_de_talentos.metadata.v7.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-08T10:54:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\jOGO2.0\\jOGO2.0\\Program.cs",
+              "RelativeDocumentMoniker": "jOGO2.0\\Program.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\jOGO2.0\\jOGO2.0\\Program.cs",
+              "RelativeToolTip": "jOGO2.0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:40:36.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

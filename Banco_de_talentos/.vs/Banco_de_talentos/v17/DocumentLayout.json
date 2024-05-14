@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\drashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\drashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|d:\\users\\aluno\\documents\\github\\senaccsharp\\banco_de_talentos\\banco_de_talentos\\ccadastrar_curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\ccadastrar_curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\drashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\drashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\drashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\drashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\ccadastrar_curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\ccadastrar_curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\banco_de_talentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA4AE0-18D3-467A-BABF-29AD89CA7A83}|Banco_de_talentos\\Banco_de_talentos.csproj|solutionrelative:banco_de_talentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Banco.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\Banco.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Banco.cs",
+              "RelativeToolTip": "Banco_de_talentos\\Banco.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:28:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ccadastrar_curriculo.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\ccadastrar_curriculo.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\ccadastrar_curriculo.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\ccadastrar_curriculo.cs [Design]",
+              "RelativeToolTip": "Banco_de_talentos\\ccadastrar_curriculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:47:54.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "drashboard.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\drashboard.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\drashboard.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\drashboard.cs [Projeto]",
+              "RelativeToolTip": "Banco_de_talentos\\drashboard.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:40:52.647Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Form1.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Form1.cs",
+              "RelativeToolTip": "Banco_de_talentos\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:35:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\Usuario.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Usuario.cs",
+              "RelativeToolTip": "Banco_de_talentos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:20:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "drashboard.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\drashboard.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\drashboard.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\drashboard.cs",
+              "RelativeToolTip": "Banco_de_talentos\\drashboard.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:41:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ccadastrar_curriculo.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\ccadastrar_curriculo.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\ccadastrar_curriculo.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\ccadastrar_curriculo.cs",
+              "RelativeToolTip": "Banco_de_talentos\\ccadastrar_curriculo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:47:59.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Form1.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Banco_de_talentos\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:18:02.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "drashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\drashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Banco_de_talentos\\drashboard.Designer.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\GitHub\\SenacCsharp\\Banco_de_talentos\\Banco_de_talentos\\drashboard.Designer.cs",
+              "RelativeToolTip": "Banco_de_talentos\\drashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:27:09.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
